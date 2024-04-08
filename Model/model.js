@@ -1,0 +1,4 @@
+
+function funkerdet(){
+ alert("TEST"); 
+};
