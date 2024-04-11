@@ -1,4 +1,26 @@
+const model= {
+app: {
+currentPage: null;
+user: null,
 
-function funkerdet(){
- alert("TEST"); 
-};
+
+
+},
+input:{
+
+dogEquipment:[{
+id: 0,
+name: "", 
+brandName: "",
+description: "",
+}
+]
+
+}, 
+
+
+
+
+
+}
+
